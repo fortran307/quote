@@ -1,0 +1,26 @@
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: radial-gradient(circle, #06BDC1, #68469F);
+}
+
+.wrapper-quote{
+    display: flex;
+    flex-direction: column;
+    background-color: #F4EDEA;
+    height: 45vh;
+    width: 60vw;
+    border: 10px solid #06BDC1;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 3vh;
+}
+
+p{
+    font-size: 28px;
+    text-align: center;
+}
